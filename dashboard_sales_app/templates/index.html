@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Product Sales Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand-block">
+          <div class="brand-mark">PS</div>
+          <div>
+            <p class="eyebrow">Sales Intelligence</p>
+            <h1>Product Sales</h1>
+          </div>
+        </div>
+
+        <nav class="nav-list" aria-label="Dashboard sections">
+          <a href="#overview" class="active">Overview</a>
+          <a href="#trends">Tendencias</a>
+          <a href="#products">Produtos</a>
+          <a href="#segments">Segmentos</a>
+        </nav>
+
+        <section class="filter-panel" aria-label="Filtros">
+          <h2>Filtros</h2>
+          <label>
+            Categoria
+            <select id="categoryFilter">
+              <option value="all">Todas</option>
+              {% for category in categories %}
+              <option value="{{ category }}">{{ category }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>
+            Cidade
+            <select id="cityFilter">
+              <option value="all">Todas</option>
+              {% for city in cities %}
+              <option value="{{ city }}">{{ city }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>
+            Produto
+            <select id="productFilter">
+              <option value="all">Todos</option>
+              {% for product in products %}
+              <option value="{{ product }}">{{ product }}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <button id="resetFilters" type="button">Limpar filtros</button>
+        </section>
+      </aside>
+
+      <main>
+        <header class="topbar" id="overview">
+          <div>
+            <p class="eyebrow">Dataset period: {{ date_min }} ate {{ date_max }}</p>
+            <h2>Dashboard de vendas para analise de produto</h2>
+          </div>
+          <div class="status-pill" id="periodLabel">Carregando dados</div>
+        </header>
+
+        <section class="empty-state" id="emptyState" hidden>
+          Nenhum dado encontrado para os filtros selecionados.
+        </section>
+
+        <section class="kpi-grid" id="kpiGrid" aria-label="Indicadores principais"></section>
+
+        <section class="insight-strip" aria-label="Resumo executivo">
+          <div>
+            <span>Produto lider</span>
+            <strong id="leaderProduct">-</strong>
+          </div>
+          <div>
+            <span>Categoria lider</span>
+            <strong id="leaderCategory">-</strong>
+          </div>
+          <div>
+            <span>Cidade lider</span>
+            <strong id="leaderCity">-</strong>
+          </div>
+        </section>
+
+        <section class="dashboard-grid" id="trends">
+          <article class="panel panel-wide">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Receita mensal</p>
+                <h3>Tendencia de vendas</h3>
+              </div>
+              <div class="segmented" role="group" aria-label="Metrica temporal">
+                <button class="active" data-timeseries="revenue" type="button">Receita</button>
+                <button data-timeseries="units" type="button">Unidades</button>
+                <button data-timeseries="orders" type="button">Pedidos</button>
+              </div>
+            </div>
+            <canvas id="trendChart" height="120"></canvas>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Alta x baixa</p>
+                <h3>Momentum mensal</h3>
+              </div>
+            </div>
+            <canvas id="momentumChart" height="180"></canvas>
+          </article>
+        </section>
+
+        <section class="dashboard-grid" id="products">
+          <article class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Mix comercial</p>
+                <h3>Receita por categoria</h3>
+              </div>
+            </div>
+            <canvas id="categoryChart" height="190"></canvas>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Praca</p>
+                <h3>Cidades por receita</h3>
+              </div>
+            </div>
+            <canvas id="cityChart" height="190"></canvas>
+          </article>
+        </section>
+
+        <section class="dashboard-grid" id="segments">
+          <article class="panel panel-wide">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Ranking</p>
+                <h3>Produtos prioritarios</h3>
+              </div>
+              <span class="muted">Ordenado por receita</span>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Produto</th>
+                    <th>Receita</th>
+                    <th>Unidades</th>
+                    <th>Ticket medio</th>
+                    <th>Share</th>
+                  </tr>
+                </thead>
+                <tbody id="productTable"></tbody>
+              </table>
+            </div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Concentracao</p>
+                <h3>Categoria x cidade</h3>
+              </div>
+            </div>
+            <div id="heatmap" class="heatmap"></div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="{{ url_for('static', path='/app.js') }}"></script>
+  </body>
+</html>

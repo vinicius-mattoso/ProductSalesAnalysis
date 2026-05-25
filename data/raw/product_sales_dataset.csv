@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Price_USD,Quantity_Sold,Total_Sales_USD,Order_Date,Customer_City
+1001,Lipstick,Beauty,26,7,182,2025-01-24,Karachi
+1002,Jacket,Fashion,254,6,1524,2026-04-01,Peshawar
+1003,Gym Gloves,Sports,30,10,300,2025-11-05,Peshawar
+1004,History Book,Books,45,6,270,2026-01-05,Lahore
+1005,Tennis Ball,Sports,401,1,401,2025-11-28,Quetta
+1006,Coffee Mug,Home,338,8,2704,2025-06-06,Lahore
+1007,Gym Gloves,Sports,102,8,816,2025-06-25,Islamabad
+1008,Gym Gloves,Sports,394,5,1970,2026-03-15,Islamabad
+1009,Lipstick,Beauty,381,5,1905,2025-02-28,Lahore
+1010,Science Book,Books,352,3,1056,2025-04-11,Islamabad
+1011,Wireless Mouse,Electronics,291,10,2910,2025-09-02,Islamabad
+1012,Table,Home,427,9,3843,2025-07-17,Karachi
+1013,Math Guide,Books,126,1,126,2025-08-17,Islamabad
+1014,Lamp,Home,42,2,84,2025-09-08,Quetta
+1015,Science Book,Books,348,8,2784,2025-12-23,Quetta
+1016,Smart Watch,Electronics,432,4,1728,2025-03-20,Karachi
+1017,Science Book,Books,61,4,244,2025-12-11,Lahore
+1018,Science Book,Books,202,6,1212,2025-01-21,Karachi
+1019,Headphones,Electronics,250,5,1250,2026-01-03,Quetta
+1020,Football,Sports,410,5,2050,2025-09-25,Islamabad
+1021,Coffee Mug,Home,210,3,630,2026-03-05,Karachi
+1022,Face Wash,Beauty,215,1,215,2025-05-23,Peshawar
+1023,Perfume,Beauty,443,10,4430,2025-10-04,Karachi
+1024,Lamp,Home,97,3,291,2025-05-09,Peshawar
+1025,Math Guide,Books,11,6,66,2025-06-27,Karachi
+1026,Shoes,Fashion,144,10,1440,2025-07-27,Karachi
+1027,History Book,Books,71,6,426,2026-01-07,Islamabad
+1028,Gym Gloves,Sports,104,2,208,2025-11-10,Lahore
+1029,Coffee Mug,Home,464,4,1856,2025-09-16,Peshawar
+1030,Gym Gloves,Sports,400,9,3600,2025-06-03,Quetta
+1031,Jacket,Fashion,292,8,2336,2025-10-25,Karachi
+1032,Jeans,Fashion,434,3,1302,2026-03-07,Islamabad
+1033,Wireless Mouse,Electronics,465,2,930,2025-02-17,Karachi
+1034,Math Guide,Books,209,9,1881,2026-03-09,Islamabad
+1035,Table,Home,69,9,621,2026-03-11,Karachi
+1036,Science Book,Books,486,1,486,2025-09-19,Quetta
+1037,Keyboard,Electronics,115,5,575,2026-01-24,Lahore
+1038,Headphones,Electronics,228,6,1368,2025-06-21,Karachi
+1039,Shoes,Fashion,48,3,144,2025-10-14,Peshawar
+1040,Table,Home,280,10,2800,2026-02-05,Quetta
+1041,Tennis Ball,Sports,417,10,4170,2025-02-04,Quetta
+1042,Gym Gloves,Sports,94,3,282,2026-02-18,Quetta
+1043,Gym Gloves,Sports,491,7,3437,2025-09-15,Islamabad
+1044,Lipstick,Beauty,109,4,436,2026-05-02,Islamabad
+1045,Lipstick,Beauty,141,3,423,2025-06-14,Karachi
+1046,Jacket,Fashion,369,5,1845,2025-09-23,Peshawar
+1047,Football,Sports,64,8,512,2025-04-18,Lahore
+1048,Cricket Bat,Sports,461,9,4149,2025-02-08,Peshawar
+1049,Lamp,Home,356,8,2848,2025-05-03,Peshawar
+1050,Tennis Ball,Sports,360,5,1800,2025-01-16,Islamabad
+1051,Perfume,Beauty,275,5,1375,2025-02-11,Karachi
+1052,Chair,Home,354,8,2832,2026-03-19,Peshawar
+1053,Headphones,Electronics,90,10,900,2025-10-12,Lahore
+1054,Novel,Books,66,6,396,2025-10-01,Islamabad
+1055,Science Book,Books,13,7,91,2025-02-10,Islamabad
+1056,Keyboard,Electronics,399,1,399,2026-05-09,Lahore
+1057,Tennis Ball,Sports,496,9,4464,2025-05-16,Peshawar
+1058,History Book,Books,410,2,820,2026-04-22,Quetta
+1059,Tennis Ball,Sports,120,6,720,2025-02-27,Quetta
+1060,Perfume,Beauty,192,8,1536,2025-01-19,Quetta
+1061,Perfume,Beauty,153,10,1530,2025-09-28,Islamabad
+1062,Headphones,Electronics,52,10,520,2025-12-19,Quetta
+1063,T-Shirt,Fashion,155,1,155,2025-07-20,Lahore
+1064,Wireless Mouse,Electronics,113,4,452,2025-09-20,Quetta
+1065,Wireless Mouse,Electronics,206,5,1030,2026-04-13,Karachi
+1066,Face Wash,Beauty,199,5,995,2025-07-24,Peshawar
+1067,Lipstick,Beauty,425,7,2975,2025-08-31,Karachi
+1068,Lamp,Home,324,6,1944,2026-04-29,Karachi
+1069,Math Guide,Books,149,7,1043,2026-01-15,Lahore
+1070,Shampoo,Beauty,374,7,2618,2025-05-31,Peshawar
+1071,Coffee Mug,Home,90,8,720,2025-06-03,Islamabad
+1072,Gym Gloves,Sports,214,7,1498,2025-09-09,Quetta
+1073,Football,Sports,37,7,259,2025-06-21,Lahore
+1074,Headphones,Electronics,275,7,1925,2025-01-11,Islamabad
+1075,Wireless Mouse,Electronics,286,1,286,2025-04-07,Islamabad
+1076,Coffee Mug,Home,292,1,292,2026-01-08,Peshawar
+1077,T-Shirt,Fashion,427,1,427,2025-11-02,Quetta
+1078,Keyboard,Electronics,66,2,132,2025-10-16,Quetta
+1079,Lipstick,Beauty,234,3,702,2025-06-10,Karachi
+1080,Shampoo,Beauty,213,9,1917,2025-05-12,Karachi
+1081,Coffee Mug,Home,21,8,168,2025-04-12,Lahore
+1082,T-Shirt,Fashion,27,4,108,2025-12-06,Peshawar
+1083,Cricket Bat,Sports,287,3,861,2025-10-30,Quetta
+1084,Science Book,Books,346,8,2768,2026-05-10,Quetta
+1085,Novel,Books,194,2,388,2025-08-20,Islamabad
+1086,Perfume,Beauty,91,4,364,2026-01-30,Islamabad
+1087,Cricket Bat,Sports,264,3,792,2025-07-13,Karachi
+1088,Lipstick,Beauty,495,2,990,2026-03-22,Peshawar
+1089,Smart Watch,Electronics,248,7,1736,2025-06-09,Karachi
+1090,Perfume,Beauty,484,8,3872,2026-01-29,Karachi
+1091,Jacket,Fashion,273,3,819,2025-06-04,Peshawar
+1092,Smart Watch,Electronics,310,5,1550,2025-03-17,Quetta
+1093,Cricket Bat,Sports,405,4,1620,2025-11-21,Quetta
+1094,Lipstick,Beauty,149,1,149,2025-08-10,Islamabad
+1095,Shampoo,Beauty,406,7,2842,2025-09-25,Islamabad
+1096,Wireless Mouse,Electronics,470,7,3290,2025-10-02,Lahore
+1097,Novel,Books,169,8,1352,2025-03-22,Karachi
+1098,Tennis Ball,Sports,218,9,1962,2025-06-29,Quetta
+1099,Lipstick,Beauty,339,7,2373,2026-01-21,Peshawar
+1100,T-Shirt,Fashion,442,4,1768,2026-02-04,Quetta
+1101,Science Book,Books,150,7,1050,2025-04-20,Quetta
+1102,Headphones,Electronics,115,1,115,2026-01-31,Karachi
+1103,Gym Gloves,Sports,445,8,3560,2025-04-06,Lahore
+1104,Chair,Home,296,10,2960,2025-02-25,Quetta
+1105,Math Guide,Books,316,9,2844,2025-08-31,Peshawar
+1106,T-Shirt,Fashion,303,1,303,2026-01-26,Lahore
+1107,Smart Watch,Electronics,333,2,666,2025-08-14,Peshawar
+1108,Face Wash,Beauty,229,9,2061,2025-10-21,Quetta
+1109,Shoes,Fashion,271,1,271,2025-05-30,Karachi
+1110,Face Wash,Beauty,415,8,3320,2025-02-05,Quetta
+1111,History Book,Books,210,1,210,2025-12-22,Karachi
+1112,Smart Watch,Electronics,486,5,2430,2025-07-26,Islamabad
+1113,Football,Sports,296,1,296,2026-03-19,Quetta
+1114,Shoes,Fashion,309,4,1236,2025-09-22,Peshawar
+1115,Math Guide,Books,384,10,3840,2025-08-08,Quetta
+1116,Gym Gloves,Sports,22,8,176,2025-07-21,Islamabad
+1117,Shoes,Fashion,141,2,282,2025-08-15,Peshawar
+1118,T-Shirt,Fashion,115,2,230,2025-02-04,Quetta
+1119,Cricket Bat,Sports,488,6,2928,2025-02-09,Karachi
+1120,Wireless Mouse,Electronics,182,4,728,2026-01-12,Islamabad
+1121,Smart Watch,Electronics,315,10,3150,2025-06-25,Quetta
+1122,Wireless Mouse,Electronics,364,5,1820,2025-04-19,Islamabad
+1123,Gym Gloves,Sports,433,9,3897,2025-08-07,Quetta
+1124,Math Guide,Books,108,5,540,2025-06-04,Lahore
+1125,Gym Gloves,Sports,28,1,28,2025-11-15,Karachi
+1126,Perfume,Beauty,206,7,1442,2026-03-12,Quetta
+1127,Football,Sports,290,9,2610,2025-11-18,Peshawar
+1128,Shoes,Fashion,485,8,3880,2026-01-27,Peshawar
+1129,Shoes,Fashion,241,4,964,2025-04-11,Karachi
+1130,Novel,Books,399,5,1995,2025-12-04,Karachi
+1131,History Book,Books,35,9,315,2025-02-09,Islamabad
+1132,Perfume,Beauty,127,7,889,2025-05-11,Islamabad
+1133,Tennis Ball,Sports,17,5,85,2026-03-24,Karachi
+1134,Smart Watch,Electronics,465,2,930,2025-07-03,Quetta
+1135,Face Wash,Beauty,73,6,438,2025-11-09,Quetta
+1136,Tennis Ball,Sports,105,9,945,2026-03-08,Peshawar
+1137,Lipstick,Beauty,440,4,1760,2026-05-04,Quetta
+1138,Jacket,Fashion,142,10,1420,2025-12-05,Peshawar
+1139,Smart Watch,Electronics,316,8,2528,2025-12-24,Islamabad
+1140,T-Shirt,Fashion,91,1,91,2025-07-25,Islamabad
+1141,Gym Gloves,Sports,299,5,1495,2025-08-14,Peshawar
+1142,Football,Sports,407,7,2849,2026-03-10,Quetta
+1143,Gym Gloves,Sports,62,2,124,2025-03-31,Lahore
+1144,Lamp,Home,296,6,1776,2025-02-24,Peshawar
+1145,Lamp,Home,15,3,45,2026-01-20,Lahore
+1146,Chair,Home,442,2,884,2025-09-06,Peshawar
+1147,T-Shirt,Fashion,100,10,1000,2025-11-13,Peshawar
+1148,Gym Gloves,Sports,201,2,402,2025-11-04,Peshawar
+1149,History Book,Books,311,5,1555,2025-12-01,Quetta
+1150,Chair,Home,30,10,300,2025-06-04,Lahore
+1151,Football,Sports,276,8,2208,2025-12-30,Lahore
+1152,Perfume,Beauty,459,3,1377,2025-08-28,Lahore
+1153,Novel,Books,468,10,4680,2025-11-16,Lahore
+1154,Gym Gloves,Sports,483,10,4830,2025-03-10,Quetta
+1155,Keyboard,Electronics,54,2,108,2025-06-24,Peshawar
+1156,Perfume,Beauty,498,1,498,2026-05-09,Islamabad
+1157,Football,Sports,439,10,4390,2026-01-18,Lahore
+1158,Perfume,Beauty,156,4,624,2025-03-24,Lahore
+1159,History Book,Books,179,4,716,2025-02-13,Karachi
+1160,Wireless Mouse,Electronics,176,6,1056,2025-04-18,Karachi
+1161,Lipstick,Beauty,352,3,1056,2025-09-30,Quetta
+1162,Novel,Books,21,9,189,2025-02-06,Islamabad
+1163,Chair,Home,117,5,585,2026-01-14,Islamabad
+1164,T-Shirt,Fashion,162,2,324,2026-01-09,Peshawar
+1165,Headphones,Electronics,36,6,216,2025-01-07,Peshawar
+1166,Jeans,Fashion,134,9,1206,2026-04-21,Quetta
+1167,Gym Gloves,Sports,490,5,2450,2026-01-02,Karachi
+1168,Wireless Mouse,Electronics,414,6,2484,2025-02-25,Quetta
+1169,Smart Watch,Electronics,337,10,3370,2025-03-23,Karachi
+1170,Coffee Mug,Home,101,8,808,2025-08-06,Karachi
+1171,Cricket Bat,Sports,20,3,60,2025-11-24,Peshawar
+1172,Lipstick,Beauty,283,10,2830,2025-11-21,Karachi
+1173,Headphones,Electronics,353,5,1765,2025-08-18,Karachi
+1174,Lamp,Home,222,6,1332,2025-10-05,Peshawar
+1175,Coffee Mug,Home,364,4,1456,2026-03-02,Islamabad
+1176,Math Guide,Books,145,1,145,2026-03-10,Peshawar
+1177,Gym Gloves,Sports,310,10,3100,2025-11-14,Lahore
+1178,Tennis Ball,Sports,194,8,1552,2025-01-26,Peshawar
+1179,Shoes,Fashion,69,2,138,2026-04-09,Lahore
+1180,Math Guide,Books,94,3,282,2026-01-10,Lahore
+1181,Football,Sports,336,6,2016,2026-01-31,Peshawar
+1182,T-Shirt,Fashion,329,7,2303,2025-04-04,Islamabad
+1183,Cricket Bat,Sports,440,4,1760,2025-03-05,Quetta
+1184,Cricket Bat,Sports,249,3,747,2025-09-22,Peshawar
+1185,Lipstick,Beauty,330,10,3300,2025-12-22,Quetta
+1186,Wireless Mouse,Electronics,176,7,1232,2025-11-02,Lahore
+1187,Jacket,Fashion,51,8,408,2025-11-21,Peshawar
+1188,Table,Home,262,10,2620,2025-03-17,Islamabad
+1189,Table,Home,120,7,840,2025-02-05,Karachi
+1190,Smart Watch,Electronics,42,2,84,2025-05-24,Lahore
+1191,Lipstick,Beauty,58,3,174,2025-05-28,Karachi
+1192,Jacket,Fashion,172,2,344,2025-04-26,Karachi
+1193,Jacket,Fashion,417,5,2085,2025-06-02,Quetta
+1194,Football,Sports,385,10,3850,2026-04-21,Islamabad
+1195,Shoes,Fashion,94,1,94,2025-05-25,Karachi
+1196,Cricket Bat,Sports,492,3,1476,2025-03-11,Peshawar
+1197,History Book,Books,41,10,410,2026-03-14,Quetta
+1198,Table,Home,90,8,720,2026-05-16,Peshawar
+1199,Shampoo,Beauty,176,6,1056,2026-03-10,Peshawar
+1200,Novel,Books,113,2,226,2025-10-27,Peshawar
+1201,Science Book,Books,365,1,365,2026-04-20,Lahore
+1202,History Book,Books,397,7,2779,2025-06-13,Islamabad
+1203,Face Wash,Beauty,182,6,1092,2026-01-07,Islamabad
+1204,Cricket Bat,Sports,500,2,1000,2025-10-08,Islamabad
+1205,Jacket,Fashion,469,9,4221,2025-07-04,Peshawar
+1206,Tennis Ball,Sports,264,10,2640,2025-11-20,Islamabad
+1207,Lamp,Home,260,10,2600,2025-09-10,Lahore
+1208,Face Wash,Beauty,194,5,970,2026-01-28,Quetta
+1209,Lipstick,Beauty,242,8,1936,2026-03-01,Islamabad
+1210,Gym Gloves,Sports,135,4,540,2025-05-24,Islamabad
+1211,Math Guide,Books,94,2,188,2026-02-19,Lahore
+1212,Smart Watch,Electronics,447,8,3576,2026-04-03,Quetta
+1213,Tennis Ball,Sports,63,1,63,2025-06-08,Lahore
+1214,Table,Home,408,9,3672,2026-03-21,Quetta
+1215,Headphones,Electronics,336,4,1344,2025-09-12,Islamabad
+1216,Gym Gloves,Sports,196,3,588,2026-04-28,Lahore
+1217,Headphones,Electronics,374,5,1870,2025-11-08,Karachi
+1218,Tennis Ball,Sports,172,7,1204,2025-12-02,Peshawar
+1219,History Book,Books,259,1,259,2025-06-13,Karachi
+1220,Science Book,Books,489,1,489,2025-03-06,Karachi
+1221,Keyboard,Electronics,65,8,520,2025-10-07,Quetta
+1222,History Book,Books,420,6,2520,2026-01-28,Peshawar
+1223,Math Guide,Books,360,2,720,2025-06-08,Lahore
+1224,Wireless Mouse,Electronics,245,2,490,2026-05-06,Lahore
+1225,Lamp,Home,469,7,3283,2025-09-29,Lahore
+1226,Science Book,Books,122,10,1220,2026-04-04,Lahore
+1227,Shoes,Fashion,169,4,676,2026-02-23,Islamabad
+1228,T-Shirt,Fashion,266,10,2660,2025-04-22,Lahore
+1229,Lamp,Home,242,7,1694,2026-04-02,Peshawar
+1230,Math Guide,Books,350,9,3150,2025-02-02,Peshawar
+1231,Shampoo,Beauty,257,3,771,2025-04-13,Peshawar
+1232,Lipstick,Beauty,356,1,356,2025-08-10,Lahore
+1233,Shoes,Fashion,485,10,4850,2025-12-18,Quetta
+1234,Math Guide,Books,103,5,515,2025-09-26,Islamabad
+1235,Wireless Mouse,Electronics,160,7,1120,2025-08-24,Islamabad
+1236,Tennis Ball,Sports,59,9,531,2025-08-19,Karachi
+1237,Football,Sports,356,9,3204,2025-02-19,Peshawar
+1238,Jeans,Fashion,267,7,1869,2026-02-06,Karachi
+1239,Headphones,Electronics,122,9,1098,2025-02-10,Quetta
+1240,Lamp,Home,164,2,328,2025-01-25,Islamabad
+1241,Science Book,Books,100,8,800,2025-06-19,Islamabad
+1242,Shampoo,Beauty,489,3,1467,2025-05-16,Lahore
+1243,Jacket,Fashion,95,5,475,2025-02-15,Peshawar
+1244,Math Guide,Books,119,1,119,2026-04-18,Lahore
+1245,Cricket Bat,Sports,385,6,2310,2025-03-10,Islamabad
+1246,Wireless Mouse,Electronics,161,2,322,2025-01-17,Quetta
+1247,Tennis Ball,Sports,499,2,998,2025-05-06,Lahore
+1248,Novel,Books,277,2,554,2025-09-13,Quetta
+1249,Chair,Home,319,1,319,2026-02-21,Islamabad
+1250,T-Shirt,Fashion,219,7,1533,2025-02-06,Karachi
+1251,Math Guide,Books,195,9,1755,2026-04-27,Islamabad
+1252,Math Guide,Books,307,1,307,2026-05-10,Islamabad
+1253,Face Wash,Beauty,473,1,473,2026-03-26,Islamabad
+1254,Smart Watch,Electronics,218,7,1526,2025-12-24,Lahore
+1255,Gym Gloves,Sports,81,2,162,2025-05-08,Peshawar
+1256,T-Shirt,Fashion,146,1,146,2025-01-16,Islamabad
+1257,Jacket,Fashion,117,9,1053,2025-09-28,Karachi
+1258,Jeans,Fashion,335,8,2680,2026-02-07,Quetta
+1259,Novel,Books,119,6,714,2025-09-14,Peshawar
+1260,Lamp,Home,181,6,1086,2025-01-05,Lahore
+1261,Shoes,Fashion,414,1,414,2025-05-08,Lahore
+1262,Football,Sports,364,4,1456,2025-08-03,Peshawar
+1263,Chair,Home,46,4,184,2025-08-23,Peshawar
+1264,Smart Watch,Electronics,418,10,4180,2026-04-20,Peshawar
+1265,Football,Sports,470,5,2350,2025-03-12,Islamabad
+1266,Wireless Mouse,Electronics,322,1,322,2025-10-15,Quetta
+1267,Lipstick,Beauty,293,3,879,2026-03-14,Quetta
+1268,Coffee Mug,Home,271,10,2710,2025-04-18,Peshawar
+1269,Gym Gloves,Sports,232,3,696,2025-09-02,Karachi
+1270,Keyboard,Electronics,289,2,578,2025-10-06,Peshawar
+1271,Cricket Bat,Sports,230,5,1150,2025-03-17,Peshawar
+1272,Gym Gloves,Sports,427,5,2135,2025-03-28,Peshawar
+1273,Table,Home,157,5,785,2025-03-30,Karachi
+1274,Lamp,Home,113,5,565,2025-08-12,Islamabad
+1275,T-Shirt,Fashion,201,10,2010,2025-08-28,Peshawar
+1276,Headphones,Electronics,262,3,786,2025-11-21,Karachi
+1277,Perfume,Beauty,186,9,1674,2025-05-08,Islamabad
+1278,Shoes,Fashion,400,6,2400,2026-02-01,Peshawar
+1279,Lipstick,Beauty,221,5,1105,2026-02-10,Lahore
+1280,Table,Home,499,2,998,2025-01-28,Lahore
+1281,Cricket Bat,Sports,274,1,274,2025-07-11,Islamabad
+1282,Table,Home,435,8,3480,2025-03-31,Islamabad
+1283,Face Wash,Beauty,267,4,1068,2025-03-14,Quetta
+1284,Lamp,Home,418,3,1254,2025-11-05,Karachi
+1285,Face Wash,Beauty,448,6,2688,2025-08-10,Peshawar
+1286,Cricket Bat,Sports,270,10,2700,2025-10-30,Islamabad
+1287,Face Wash,Beauty,425,7,2975,2025-01-25,Islamabad
+1288,Tennis Ball,Sports,479,8,3832,2026-05-07,Karachi
+1289,Jacket,Fashion,186,5,930,2025-06-19,Karachi
+1290,Face Wash,Beauty,165,3,495,2025-11-13,Peshawar
+1291,Science Book,Books,220,6,1320,2025-03-03,Islamabad
+1292,Shampoo,Beauty,167,2,334,2025-07-03,Quetta
+1293,Table,Home,29,1,29,2025-08-31,Islamabad
+1294,Chair,Home,408,4,1632,2026-01-30,Quetta
+1295,Table,Home,167,5,835,2026-03-30,Lahore
+1296,Science Book,Books,15,9,135,2025-01-17,Peshawar
+1297,Gym Gloves,Sports,103,10,1030,2025-02-09,Peshawar
+1298,Science Book,Books,107,3,321,2025-07-09,Quetta
+1299,Face Wash,Beauty,77,2,154,2025-07-21,Lahore
+1300,Shampoo,Beauty,295,2,590,2026-02-05,Karachi
+1301,Table,Home,104,5,520,2026-01-29,Quetta
+1302,Coffee Mug,Home,498,10,4980,2026-03-14,Lahore
+1303,Jeans,Fashion,266,10,2660,2026-01-06,Karachi
+1304,Coffee Mug,Home,146,5,730,2025-12-05,Quetta
+1305,Shampoo,Beauty,256,7,1792,2025-04-19,Peshawar
+1306,T-Shirt,Fashion,435,1,435,2025-12-13,Peshawar
+1307,Science Book,Books,156,7,1092,2025-10-21,Peshawar
+1308,Lipstick,Beauty,346,4,1384,2026-05-10,Quetta
+1309,Cricket Bat,Sports,27,9,243,2026-03-11,Quetta
+1310,Shoes,Fashion,377,1,377,2025-09-07,Karachi
+1311,Cricket Bat,Sports,35,9,315,2025-05-08,Peshawar
+1312,Shampoo,Beauty,11,1,11,2025-11-25,Islamabad
+1313,Table,Home,145,5,725,2025-07-06,Peshawar
+1314,Keyboard,Electronics,16,1,16,2026-02-15,Lahore
+1315,Cricket Bat,Sports,250,5,1250,2025-07-03,Quetta
+1316,Lipstick,Beauty,141,5,705,2025-12-04,Karachi
+1317,Chair,Home,380,9,3420,2025-04-16,Quetta
+1318,Shampoo,Beauty,13,1,13,2025-05-20,Lahore
+1319,Gym Gloves,Sports,425,3,1275,2025-11-03,Islamabad
+1320,Shampoo,Beauty,110,4,440,2025-12-15,Islamabad
+1321,Wireless Mouse,Electronics,186,10,1860,2025-05-06,Islamabad
+1322,History Book,Books,374,1,374,2026-01-07,Karachi
+1323,Cricket Bat,Sports,388,7,2716,2026-03-31,Lahore
+1324,Lipstick,Beauty,170,9,1530,2025-09-24,Quetta
+1325,Chair,Home,23,2,46,2025-04-30,Peshawar
+1326,Tennis Ball,Sports,439,2,878,2026-02-11,Islamabad
+1327,Tennis Ball,Sports,297,9,2673,2025-08-14,Lahore
+1328,History Book,Books,280,1,280,2025-06-22,Lahore
+1329,Coffee Mug,Home,318,10,3180,2026-02-15,Islamabad
+1330,Science Book,Books,227,1,227,2025-06-13,Peshawar
+1331,Gym Gloves,Sports,326,10,3260,2025-03-24,Karachi
+1332,Coffee Mug,Home,214,3,642,2025-09-06,Karachi
+1333,Football,Sports,49,4,196,2025-12-15,Karachi
+1334,Coffee Mug,Home,293,1,293,2025-12-05,Peshawar
+1335,Smart Watch,Electronics,48,5,240,2025-12-11,Peshawar
+1336,Jeans,Fashion,422,1,422,2025-10-05,Peshawar
+1337,Jeans,Fashion,329,6,1974,2026-03-20,Lahore
+1338,Lamp,Home,284,5,1420,2025-01-09,Islamabad
+1339,Cricket Bat,Sports,265,6,1590,2025-02-18,Peshawar
+1340,Lipstick,Beauty,283,7,1981,2025-01-20,Islamabad
+1341,Face Wash,Beauty,316,5,1580,2026-01-28,Karachi
+1342,Smart Watch,Electronics,217,5,1085,2025-10-15,Quetta
+1343,Perfume,Beauty,104,10,1040,2025-09-05,Karachi
+1344,Jacket,Fashion,31,3,93,2026-01-01,Karachi
+1345,Cricket Bat,Sports,126,3,378,2025-12-16,Quetta
+1346,Smart Watch,Electronics,325,5,1625,2025-08-24,Quetta
+1347,Math Guide,Books,196,10,1960,2025-03-08,Islamabad
+1348,Perfume,Beauty,495,7,3465,2025-07-17,Peshawar
+1349,Jeans,Fashion,422,3,1266,2025-09-17,Islamabad
+1350,Novel,Books,176,10,1760,2025-06-11,Peshawar
+1351,Jacket,Fashion,297,3,891,2025-12-07,Islamabad
+1352,Table,Home,108,9,972,2025-05-23,Peshawar
+1353,Jeans,Fashion,35,5,175,2025-04-10,Karachi
+1354,Perfume,Beauty,102,2,204,2025-06-29,Peshawar
+1355,Math Guide,Books,143,2,286,2025-01-13,Islamabad
+1356,Shoes,Fashion,457,1,457,2026-04-22,Islamabad
+1357,Gym Gloves,Sports,337,10,3370,2025-06-20,Karachi
+1358,Football,Sports,142,10,1420,2025-03-12,Lahore
+1359,Jeans,Fashion,209,5,1045,2025-11-10,Peshawar
+1360,Shoes,Fashion,455,1,455,2025-10-28,Karachi
+1361,Headphones,Electronics,408,9,3672,2026-04-17,Islamabad
+1362,Shampoo,Beauty,478,5,2390,2025-10-22,Karachi
+1363,Keyboard,Electronics,114,1,114,2026-01-22,Peshawar
+1364,Keyboard,Electronics,243,2,486,2025-07-08,Lahore
+1365,Jeans,Fashion,281,4,1124,2025-03-13,Peshawar
+1366,Headphones,Electronics,16,9,144,2025-01-28,Islamabad
+1367,Shampoo,Beauty,126,9,1134,2025-01-26,Karachi
+1368,Novel,Books,43,7,301,2026-01-18,Karachi
+1369,Novel,Books,427,7,2989,2025-08-11,Peshawar
+1370,Perfume,Beauty,304,3,912,2026-01-18,Quetta
+1371,Cricket Bat,Sports,195,5,975,2025-05-29,Quetta
+1372,T-Shirt,Fashion,388,2,776,2025-11-14,Lahore
+1373,Novel,Books,406,8,3248,2025-12-04,Islamabad
+1374,Face Wash,Beauty,126,7,882,2025-01-16,Peshawar
+1375,Gym Gloves,Sports,406,5,2030,2025-10-09,Lahore
+1376,Science Book,Books,248,6,1488,2025-05-07,Quetta
+1377,Chair,Home,411,9,3699,2025-10-30,Islamabad
+1378,History Book,Books,497,3,1491,2025-08-20,Peshawar
+1379,Coffee Mug,Home,293,2,586,2025-05-07,Islamabad
+1380,Math Guide,Books,288,2,576,2025-05-06,Islamabad
+1381,Football,Sports,226,9,2034,2025-05-30,Lahore
+1382,Lipstick,Beauty,267,1,267,2025-06-21,Lahore
+1383,Cricket Bat,Sports,173,7,1211,2026-03-09,Quetta
+1384,Jacket,Fashion,460,2,920,2025-08-07,Islamabad
+1385,T-Shirt,Fashion,165,9,1485,2025-04-13,Islamabad
+1386,Perfume,Beauty,457,8,3656,2025-04-10,Karachi
+1387,Cricket Bat,Sports,80,2,160,2026-04-04,Peshawar
+1388,Gym Gloves,Sports,206,8,1648,2025-08-12,Karachi
+1389,Coffee Mug,Home,167,9,1503,2025-07-01,Lahore
+1390,Smart Watch,Electronics,451,3,1353,2026-05-03,Karachi
+1391,Lipstick,Beauty,311,6,1866,2026-02-18,Quetta
+1392,Shampoo,Beauty,176,2,352,2025-03-23,Quetta
+1393,Coffee Mug,Home,228,8,1824,2026-02-23,Peshawar
+1394,Gym Gloves,Sports,427,1,427,2025-09-12,Quetta
+1395,Novel,Books,363,9,3267,2025-03-31,Islamabad
+1396,Keyboard,Electronics,266,8,2128,2025-08-11,Karachi
+1397,Headphones,Electronics,307,3,921,2025-06-10,Lahore
+1398,Novel,Books,304,1,304,2026-02-08,Quetta
+1399,History Book,Books,257,4,1028,2025-01-18,Quetta
+1400,Jeans,Fashion,65,10,650,2025-08-04,Peshawar
+1401,Smart Watch,Electronics,363,6,2178,2025-12-28,Peshawar
+1402,Novel,Books,243,8,1944,2025-11-25,Karachi
+1403,Science Book,Books,47,10,470,2025-11-28,Islamabad
+1404,Gym Gloves,Sports,390,4,1560,2025-12-05,Lahore
+1405,Face Wash,Beauty,492,4,1968,2025-02-04,Lahore
+1406,Novel,Books,488,5,2440,2026-05-05,Lahore
+1407,Jeans,Fashion,169,7,1183,2025-05-13,Karachi
+1408,Math Guide,Books,430,1,430,2025-03-20,Islamabad
+1409,History Book,Books,266,4,1064,2025-09-29,Peshawar
+1410,Lipstick,Beauty,347,1,347,2025-07-25,Karachi
+1411,Shoes,Fashion,418,4,1672,2026-02-17,Lahore
+1412,Shampoo,Beauty,59,1,59,2025-02-23,Lahore
+1413,Face Wash,Beauty,327,4,1308,2025-05-03,Islamabad
+1414,Jeans,Fashion,451,6,2706,2026-01-19,Karachi
+1415,Math Guide,Books,144,1,144,2025-09-14,Lahore
+1416,Shoes,Fashion,204,9,1836,2025-07-17,Lahore
+1417,Jacket,Fashion,490,4,1960,2025-10-26,Quetta
+1418,Lamp,Home,345,4,1380,2025-03-24,Quetta
+1419,T-Shirt,Fashion,80,2,160,2025-12-18,Quetta
+1420,Tennis Ball,Sports,119,2,238,2026-03-17,Islamabad
+1421,Science Book,Books,235,4,940,2026-03-15,Islamabad
+1422,Jeans,Fashion,492,8,3936,2026-02-02,Lahore
+1423,Coffee Mug,Home,312,7,2184,2025-05-13,Islamabad
+1424,Lipstick,Beauty,476,4,1904,2025-03-08,Quetta
+1425,Tennis Ball,Sports,411,1,411,2025-06-20,Quetta
+1426,Tennis Ball,Sports,430,8,3440,2025-01-31,Karachi
+1427,Shampoo,Beauty,489,9,4401,2026-04-04,Islamabad
+1428,Table,Home,35,4,140,2025-09-04,Lahore
+1429,Shoes,Fashion,187,2,374,2026-03-23,Quetta
+1430,Jeans,Fashion,468,8,3744,2025-04-01,Lahore
+1431,Lipstick,Beauty,465,7,3255,2025-11-05,Islamabad
+1432,Tennis Ball,Sports,491,9,4419,2025-12-01,Karachi
+1433,Science Book,Books,266,4,1064,2026-02-01,Islamabad
+1434,T-Shirt,Fashion,330,1,330,2025-10-10,Quetta
+1435,Face Wash,Beauty,302,7,2114,2026-03-22,Lahore
+1436,Chair,Home,399,4,1596,2025-07-01,Lahore
+1437,Shampoo,Beauty,24,10,240,2025-07-21,Peshawar
+1438,Smart Watch,Electronics,355,7,2485,2025-10-22,Quetta
+1439,Wireless Mouse,Electronics,194,1,194,2026-01-04,Karachi
+1440,Math Guide,Books,451,4,1804,2025-02-15,Quetta
+1441,Headphones,Electronics,250,5,1250,2025-08-04,Islamabad
+1442,Face Wash,Beauty,318,7,2226,2026-03-09,Karachi
+1443,Table,Home,448,6,2688,2025-10-17,Karachi
+1444,Lamp,Home,86,3,258,2026-02-15,Quetta
+1445,Headphones,Electronics,262,4,1048,2026-04-23,Islamabad
+1446,Headphones,Electronics,339,1,339,2025-07-30,Quetta
+1447,Football,Sports,348,6,2088,2026-02-24,Peshawar
+1448,Wireless Mouse,Electronics,356,3,1068,2025-01-11,Peshawar
+1449,Science Book,Books,408,6,2448,2025-08-21,Peshawar
+1450,Face Wash,Beauty,500,10,5000,2025-04-02,Quetta
+1451,Perfume,Beauty,102,3,306,2025-05-18,Quetta
+1452,Chair,Home,166,6,996,2025-01-09,Islamabad
+1453,Keyboard,Electronics,297,4,1188,2026-02-12,Peshawar
+1454,Gym Gloves,Sports,442,6,2652,2025-12-30,Lahore
+1455,Keyboard,Electronics,96,6,576,2026-02-26,Quetta
+1456,Chair,Home,232,10,2320,2025-01-15,Karachi
+1457,Wireless Mouse,Electronics,205,1,205,2026-02-09,Peshawar
+1458,T-Shirt,Fashion,14,9,126,2025-03-19,Lahore
+1459,Football,Sports,213,1,213,2025-04-27,Lahore
+1460,Table,Home,373,7,2611,2025-04-17,Quetta
+1461,Jacket,Fashion,127,5,635,2025-06-10,Quetta
+1462,Lamp,Home,315,1,315,2026-03-20,Karachi
+1463,Cricket Bat,Sports,245,5,1225,2025-01-21,Islamabad
+1464,Smart Watch,Electronics,223,10,2230,2025-08-25,Lahore
+1465,Math Guide,Books,456,1,456,2025-09-18,Lahore
+1466,Shampoo,Beauty,433,6,2598,2026-02-23,Lahore
+1467,Shampoo,Beauty,267,9,2403,2025-10-06,Islamabad
+1468,Cricket Bat,Sports,210,3,630,2025-03-08,Quetta
+1469,Table,Home,387,10,3870,2025-08-08,Karachi
+1470,Shoes,Fashion,60,3,180,2025-03-27,Lahore
+1471,Jacket,Fashion,290,2,580,2025-07-14,Quetta
+1472,Tennis Ball,Sports,197,9,1773,2025-03-09,Lahore
+1473,Tennis Ball,Sports,341,4,1364,2025-04-26,Lahore
+1474,Shoes,Fashion,492,4,1968,2025-05-28,Karachi
+1475,Coffee Mug,Home,430,10,4300,2025-11-20,Peshawar
+1476,History Book,Books,297,9,2673,2025-06-26,Peshawar
+1477,Lipstick,Beauty,42,8,336,2025-02-23,Lahore
+1478,Face Wash,Beauty,60,7,420,2025-02-26,Peshawar
+1479,Smart Watch,Electronics,228,8,1824,2025-08-31,Karachi
+1480,Football,Sports,95,1,95,2025-08-29,Karachi
+1481,Cricket Bat,Sports,150,6,900,2025-10-23,Quetta
+1482,Perfume,Beauty,269,3,807,2025-09-21,Karachi
+1483,Wireless Mouse,Electronics,228,4,912,2025-10-05,Islamabad
+1484,Novel,Books,283,5,1415,2026-05-16,Quetta
+1485,Headphones,Electronics,29,10,290,2026-02-17,Peshawar
+1486,Science Book,Books,279,2,558,2025-04-17,Islamabad
+1487,Jacket,Fashion,10,1,10,2026-02-03,Islamabad
+1488,Lamp,Home,111,6,666,2025-04-25,Quetta
+1489,Chair,Home,36,10,360,2025-05-01,Quetta
+1490,History Book,Books,71,4,284,2025-07-27,Islamabad
+1491,Jeans,Fashion,427,7,2989,2025-02-08,Islamabad
+1492,Jeans,Fashion,429,2,858,2025-07-16,Peshawar
+1493,Coffee Mug,Home,221,7,1547,2025-11-25,Lahore
+1494,Football,Sports,485,1,485,2026-02-28,Lahore
+1495,Shampoo,Beauty,316,1,316,2025-12-04,Karachi
+1496,Shampoo,Beauty,257,1,257,2026-03-03,Quetta
+1497,Lamp,Home,87,5,435,2025-11-20,Islamabad
+1498,Novel,Books,26,7,182,2025-12-18,Islamabad
+1499,T-Shirt,Fashion,350,4,1400,2025-03-03,Quetta
+1500,Smart Watch,Electronics,79,9,711,2025-06-11,Karachi
+1501,Table,Home,149,4,596,2026-03-26,Quetta
+1502,Lipstick,Beauty,91,7,637,2026-01-03,Peshawar
+1503,Science Book,Books,196,6,1176,2025-05-22,Lahore
+1504,Face Wash,Beauty,330,3,990,2025-03-04,Peshawar
+1505,Science Book,Books,62,9,558,2025-06-07,Islamabad
+1506,Gym Gloves,Sports,144,10,1440,2025-11-14,Peshawar
+1507,Headphones,Electronics,462,1,462,2026-01-26,Peshawar
+1508,History Book,Books,427,1,427,2025-12-07,Islamabad
+1509,Lamp,Home,401,5,2005,2025-01-10,Lahore
+1510,Jeans,Fashion,160,4,640,2025-09-07,Peshawar
+1511,Shoes,Fashion,105,5,525,2026-01-01,Peshawar
+1512,Tennis Ball,Sports,252,10,2520,2025-01-02,Lahore
+1513,Science Book,Books,184,1,184,2025-07-27,Quetta
+1514,Cricket Bat,Sports,424,6,2544,2026-05-12,Islamabad
+1515,Smart Watch,Electronics,474,5,2370,2026-04-04,Peshawar
+1516,Chair,Home,211,5,1055,2025-05-08,Peshawar
+1517,Smart Watch,Electronics,277,4,1108,2025-11-08,Lahore
+1518,Perfume,Beauty,470,1,470,2025-09-05,Karachi
+1519,Jacket,Fashion,32,4,128,2026-05-10,Quetta
+1520,Science Book,Books,53,9,477,2025-11-05,Peshawar
+1521,Wireless Mouse,Electronics,200,5,1000,2026-05-12,Peshawar
+1522,Headphones,Electronics,241,2,482,2026-03-16,Quetta
+1523,Math Guide,Books,75,8,600,2025-11-15,Quetta
+1524,Jacket,Fashion,353,1,353,2025-10-28,Quetta
+1525,Wireless Mouse,Electronics,427,8,3416,2025-01-08,Islamabad
+1526,Jacket,Fashion,79,7,553,2025-07-10,Quetta
+1527,Shampoo,Beauty,67,2,134,2025-07-04,Lahore
+1528,Face Wash,Beauty,70,3,210,2025-10-27,Lahore
+1529,Face Wash,Beauty,304,6,1824,2025-01-05,Karachi
+1530,Coffee Mug,Home,149,8,1192,2026-03-09,Quetta
+1531,Math Guide,Books,99,2,198,2026-03-15,Lahore
+1532,Shoes,Fashion,428,6,2568,2025-07-07,Quetta
+1533,Football,Sports,303,3,909,2026-05-10,Lahore
+1534,Coffee Mug,Home,217,4,868,2026-04-13,Karachi
+1535,Chair,Home,314,3,942,2026-03-15,Peshawar
+1536,T-Shirt,Fashion,192,9,1728,2025-07-01,Karachi
+1537,Science Book,Books,133,8,1064,2025-03-25,Quetta
+1538,Smart Watch,Electronics,193,2,386,2026-03-22,Quetta
+1539,History Book,Books,306,5,1530,2025-12-10,Lahore
+1540,T-Shirt,Fashion,337,5,1685,2025-05-18,Islamabad
+1541,Keyboard,Electronics,16,3,48,2025-08-04,Karachi
+1542,Wireless Mouse,Electronics,61,4,244,2025-06-26,Karachi
+1543,Football,Sports,183,3,549,2025-02-19,Karachi
+1544,Face Wash,Beauty,487,5,2435,2025-05-30,Islamabad
+1545,Cricket Bat,Sports,198,3,594,2025-09-26,Islamabad
+1546,Jacket,Fashion,484,10,4840,2025-12-15,Karachi
+1547,Tennis Ball,Sports,383,6,2298,2025-08-29,Islamabad
+1548,Table,Home,204,5,1020,2026-05-02,Quetta
+1549,Tennis Ball,Sports,35,5,175,2025-03-31,Lahore
+1550,T-Shirt,Fashion,393,9,3537,2025-01-18,Islamabad
+1551,Perfume,Beauty,480,10,4800,2026-05-05,Peshawar
+1552,History Book,Books,354,7,2478,2025-11-14,Karachi
+1553,Perfume,Beauty,27,9,243,2025-10-24,Quetta
+1554,Headphones,Electronics,434,5,2170,2025-11-03,Lahore
+1555,Lipstick,Beauty,388,2,776,2025-07-09,Lahore
+1556,Perfume,Beauty,55,6,330,2025-10-26,Islamabad
+1557,Keyboard,Electronics,24,10,240,2025-05-21,Karachi
+1558,T-Shirt,Fashion,236,6,1416,2025-01-27,Islamabad
+1559,Lamp,Home,143,7,1001,2026-02-24,Peshawar
+1560,Jeans,Fashion,155,1,155,2025-09-15,Quetta
+1561,Tennis Ball,Sports,461,5,2305,2025-09-14,Quetta
+1562,Math Guide,Books,480,4,1920,2025-01-04,Quetta
+1563,Chair,Home,443,6,2658,2026-02-01,Karachi
+1564,Chair,Home,495,4,1980,2026-04-30,Quetta
+1565,Table,Home,387,9,3483,2025-10-23,Peshawar
+1566,Chair,Home,75,4,300,2025-10-30,Peshawar
+1567,Lipstick,Beauty,455,9,4095,2025-01-21,Quetta
+1568,Lipstick,Beauty,245,2,490,2025-11-12,Islamabad
+1569,Keyboard,Electronics,70,10,700,2025-06-18,Lahore
+1570,Shampoo,Beauty,114,4,456,2025-01-11,Quetta
+1571,Football,Sports,289,1,289,2025-05-13,Islamabad
+1572,Table,Home,198,10,1980,2025-03-29,Islamabad
+1573,Tennis Ball,Sports,380,5,1900,2025-12-10,Lahore
+1574,Perfume,Beauty,297,1,297,2025-07-29,Karachi
+1575,Lipstick,Beauty,202,4,808,2026-03-04,Islamabad
+1576,History Book,Books,149,10,1490,2025-08-21,Karachi
+1577,History Book,Books,402,4,1608,2026-02-08,Lahore
+1578,Headphones,Electronics,281,2,562,2025-03-17,Peshawar
+1579,Tennis Ball,Sports,377,6,2262,2025-03-18,Lahore
+1580,Lamp,Home,20,3,60,2026-03-10,Quetta
+1581,Tennis Ball,Sports,51,1,51,2025-04-17,Karachi
+1582,Table,Home,339,8,2712,2025-12-01,Quetta
+1583,Jeans,Fashion,156,4,624,2025-12-24,Peshawar
+1584,Science Book,Books,134,9,1206,2026-01-11,Islamabad
+1585,Keyboard,Electronics,136,4,544,2025-03-11,Peshawar
+1586,Tennis Ball,Sports,163,9,1467,2025-03-12,Islamabad
+1587,Math Guide,Books,312,5,1560,2025-09-22,Peshawar
+1588,Perfume,Beauty,186,3,558,2025-01-04,Lahore
+1589,Coffee Mug,Home,147,3,441,2025-12-07,Islamabad
+1590,Headphones,Electronics,18,8,144,2025-02-10,Islamabad
+1591,Lipstick,Beauty,486,10,4860,2025-04-21,Peshawar
+1592,Gym Gloves,Sports,272,8,2176,2025-02-28,Islamabad
+1593,Wireless Mouse,Electronics,36,9,324,2025-04-20,Karachi
+1594,Shampoo,Beauty,332,4,1328,2025-04-24,Peshawar
+1595,T-Shirt,Fashion,73,2,146,2026-04-25,Lahore
+1596,Keyboard,Electronics,376,9,3384,2025-08-04,Lahore
+1597,History Book,Books,216,3,648,2026-03-16,Quetta
+1598,Football,Sports,464,10,4640,2025-10-23,Peshawar
+1599,Jeans,Fashion,448,8,3584,2026-01-06,Peshawar
+1600,Lamp,Home,84,10,840,2025-03-20,Peshawar
+1601,Novel,Books,418,10,4180,2025-05-24,Lahore
+1602,Novel,Books,205,1,205,2025-08-28,Quetta
+1603,Perfume,Beauty,225,3,675,2025-02-22,Peshawar
+1604,Coffee Mug,Home,73,2,146,2025-07-16,Quetta
+1605,Shampoo,Beauty,171,8,1368,2025-08-25,Islamabad
+1606,Tennis Ball,Sports,286,4,1144,2025-01-10,Quetta
+1607,Coffee Mug,Home,274,10,2740,2025-05-26,Lahore
+1608,Perfume,Beauty,163,5,815,2025-05-27,Peshawar
+1609,Football,Sports,464,4,1856,2026-03-03,Lahore
+1610,T-Shirt,Fashion,416,4,1664,2025-07-21,Quetta
+1611,Tennis Ball,Sports,172,8,1376,2025-09-18,Lahore
+1612,Tennis Ball,Sports,499,4,1996,2025-03-07,Peshawar
+1613,Headphones,Electronics,233,4,932,2026-02-10,Karachi
+1614,Jeans,Fashion,136,10,1360,2025-11-23,Lahore
+1615,Novel,Books,216,3,648,2025-09-28,Islamabad
+1616,Football,Sports,347,1,347,2025-11-01,Lahore
+1617,Shampoo,Beauty,241,8,1928,2026-03-30,Karachi
+1618,Coffee Mug,Home,489,10,4890,2026-03-03,Karachi
+1619,Novel,Books,53,5,265,2025-04-22,Islamabad
+1620,Chair,Home,196,2,392,2025-11-09,Islamabad
+1621,Headphones,Electronics,104,8,832,2025-06-06,Karachi
+1622,Wireless Mouse,Electronics,55,8,440,2026-03-21,Karachi
+1623,Jeans,Fashion,179,2,358,2025-02-16,Peshawar
+1624,Lipstick,Beauty,138,3,414,2026-03-24,Karachi
+1625,Wireless Mouse,Electronics,87,10,870,2026-05-07,Quetta
+1626,Shoes,Fashion,306,9,2754,2026-01-04,Lahore
+1627,Gym Gloves,Sports,331,6,1986,2025-09-11,Peshawar
+1628,Math Guide,Books,230,10,2300,2026-02-26,Peshawar
+1629,Tennis Ball,Sports,189,2,378,2026-02-22,Quetta
+1630,Face Wash,Beauty,292,4,1168,2025-05-30,Karachi
+1631,T-Shirt,Fashion,308,10,3080,2025-10-11,Lahore
+1632,Wireless Mouse,Electronics,423,3,1269,2026-01-19,Lahore
+1633,Shampoo,Beauty,482,3,1446,2025-01-29,Lahore
+1634,Smart Watch,Electronics,89,7,623,2026-03-06,Islamabad
+1635,Gym Gloves,Sports,494,6,2964,2025-06-23,Karachi
+1636,History Book,Books,162,10,1620,2025-04-08,Peshawar
+1637,Lamp,Home,251,2,502,2025-10-15,Peshawar
+1638,T-Shirt,Fashion,161,2,322,2026-03-22,Islamabad
+1639,Chair,Home,202,6,1212,2025-09-14,Peshawar
+1640,Novel,Books,43,7,301,2026-03-11,Karachi
+1641,Tennis Ball,Sports,333,2,666,2026-01-09,Lahore
+1642,Gym Gloves,Sports,62,3,186,2025-08-27,Peshawar
+1643,Gym Gloves,Sports,262,1,262,2026-05-02,Quetta
+1644,Table,Home,315,3,945,2025-10-28,Karachi
+1645,Science Book,Books,438,6,2628,2025-12-17,Karachi
+1646,Football,Sports,194,10,1940,2025-02-08,Karachi
+1647,Novel,Books,452,3,1356,2025-10-07,Quetta
+1648,Chair,Home,357,9,3213,2025-05-02,Karachi
+1649,Keyboard,Electronics,217,6,1302,2025-06-21,Peshawar
+1650,Table,Home,220,5,1100,2025-06-24,Islamabad
+1651,Novel,Books,23,1,23,2025-05-21,Quetta
+1652,Cricket Bat,Sports,38,6,228,2026-05-14,Peshawar
+1653,Football,Sports,429,1,429,2025-08-05,Karachi
+1654,Football,Sports,454,9,4086,2025-07-15,Karachi
+1655,Novel,Books,104,9,936,2025-08-08,Lahore
+1656,Jacket,Fashion,59,3,177,2025-12-12,Islamabad
+1657,Chair,Home,353,9,3177,2025-10-20,Karachi
+1658,Cricket Bat,Sports,446,5,2230,2025-03-27,Karachi
+1659,Tennis Ball,Sports,385,7,2695,2026-05-14,Karachi
+1660,Jeans,Fashion,221,6,1326,2026-04-21,Islamabad
+1661,Lamp,Home,284,4,1136,2025-11-22,Peshawar
+1662,Face Wash,Beauty,483,8,3864,2025-06-07,Lahore
+1663,Table,Home,151,5,755,2025-07-22,Karachi
+1664,Headphones,Electronics,473,1,473,2025-06-04,Quetta
+1665,Jacket,Fashion,356,8,2848,2026-04-07,Peshawar
+1666,Jacket,Fashion,55,6,330,2025-07-01,Peshawar
+1667,T-Shirt,Fashion,369,2,738,2026-04-26,Islamabad
+1668,Math Guide,Books,98,8,784,2025-06-24,Islamabad
+1669,T-Shirt,Fashion,245,6,1470,2025-07-09,Karachi
+1670,Tennis Ball,Sports,146,4,584,2025-11-18,Peshawar
+1671,Shoes,Fashion,488,2,976,2025-01-20,Quetta
+1672,Perfume,Beauty,352,3,1056,2026-01-15,Islamabad
+1673,History Book,Books,465,7,3255,2025-04-30,Karachi
+1674,Wireless Mouse,Electronics,371,5,1855,2025-11-12,Lahore
+1675,Table,Home,430,10,4300,2026-03-11,Peshawar
+1676,Tennis Ball,Sports,167,9,1503,2026-01-14,Peshawar
+1677,Lamp,Home,400,6,2400,2026-03-10,Karachi
+1678,Wireless Mouse,Electronics,210,3,630,2025-12-31,Lahore
+1679,Table,Home,296,7,2072,2025-05-19,Quetta
+1680,Lipstick,Beauty,49,5,245,2025-10-01,Peshawar
+1681,Lamp,Home,490,6,2940,2025-07-17,Peshawar
+1682,Face Wash,Beauty,332,9,2988,2025-05-27,Lahore
+1683,Table,Home,419,1,419,2025-10-16,Quetta
+1684,Tennis Ball,Sports,423,9,3807,2025-08-18,Quetta
+1685,Jeans,Fashion,305,3,915,2025-11-24,Islamabad
+1686,Lipstick,Beauty,397,10,3970,2025-01-25,Islamabad
+1687,Cricket Bat,Sports,452,3,1356,2025-06-16,Islamabad
+1688,Headphones,Electronics,113,1,113,2026-03-27,Quetta
+1689,Coffee Mug,Home,345,8,2760,2025-05-13,Peshawar
+1690,Football,Sports,471,4,1884,2025-12-08,Lahore
+1691,Novel,Books,126,10,1260,2025-06-24,Karachi
+1692,Perfume,Beauty,210,1,210,2025-09-04,Peshawar
+1693,Tennis Ball,Sports,416,2,832,2025-03-29,Islamabad
+1694,Shoes,Fashion,23,1,23,2025-11-05,Quetta
+1695,Gym Gloves,Sports,455,3,1365,2025-04-21,Islamabad
+1696,History Book,Books,212,10,2120,2025-12-11,Quetta
+1697,Cricket Bat,Sports,303,1,303,2025-06-18,Karachi
+1698,Novel,Books,270,5,1350,2025-12-28,Quetta
+1699,Coffee Mug,Home,15,2,30,2025-06-01,Karachi
+1700,Cricket Bat,Sports,223,8,1784,2025-12-25,Islamabad
+1701,Science Book,Books,320,2,640,2025-10-09,Islamabad
+1702,Shampoo,Beauty,429,4,1716,2025-01-11,Peshawar
+1703,Table,Home,451,8,3608,2026-01-02,Peshawar
+1704,Gym Gloves,Sports,423,3,1269,2025-09-17,Quetta
+1705,Gym Gloves,Sports,374,6,2244,2025-06-25,Islamabad
+1706,Shoes,Fashion,319,9,2871,2026-01-11,Peshawar
+1707,Face Wash,Beauty,352,10,3520,2026-04-16,Islamabad
+1708,Table,Home,106,9,954,2025-12-27,Lahore
+1709,Shoes,Fashion,484,10,4840,2025-07-13,Karachi
+1710,Lamp,Home,427,8,3416,2025-05-29,Lahore
+1711,Headphones,Electronics,323,7,2261,2025-09-25,Peshawar
+1712,Face Wash,Beauty,379,2,758,2026-03-06,Islamabad
+1713,Coffee Mug,Home,65,3,195,2025-03-02,Quetta
+1714,Science Book,Books,311,2,622,2025-12-01,Karachi
+1715,Science Book,Books,186,4,744,2025-02-22,Islamabad
+1716,Keyboard,Electronics,57,8,456,2026-03-16,Karachi
+1717,Math Guide,Books,78,10,780,2025-08-01,Islamabad
+1718,Shoes,Fashion,25,6,150,2025-07-02,Lahore
+1719,Face Wash,Beauty,474,9,4266,2026-05-05,Quetta
+1720,Coffee Mug,Home,62,10,620,2025-07-16,Lahore
+1721,Novel,Books,153,8,1224,2026-05-12,Quetta
+1722,Smart Watch,Electronics,22,3,66,2026-04-26,Peshawar
+1723,Wireless Mouse,Electronics,456,6,2736,2025-07-22,Lahore
+1724,Chair,Home,495,4,1980,2025-12-11,Islamabad
+1725,Lipstick,Beauty,437,6,2622,2025-02-17,Islamabad
+1726,Lamp,Home,287,8,2296,2025-08-29,Quetta
+1727,Table,Home,114,6,684,2025-08-30,Peshawar
+1728,Science Book,Books,324,6,1944,2026-02-23,Lahore
+1729,Smart Watch,Electronics,269,4,1076,2025-11-24,Karachi
+1730,Math Guide,Books,391,9,3519,2025-12-17,Karachi
+1731,T-Shirt,Fashion,185,6,1110,2025-04-30,Quetta
+1732,Face Wash,Beauty,36,10,360,2026-02-14,Lahore
+1733,Headphones,Electronics,366,6,2196,2025-10-17,Islamabad
+1734,Jeans,Fashion,101,3,303,2025-12-06,Peshawar
+1735,Smart Watch,Electronics,454,9,4086,2025-10-12,Islamabad
+1736,Novel,Books,396,3,1188,2025-10-03,Lahore
+1737,Science Book,Books,446,7,3122,2025-08-30,Lahore
+1738,Novel,Books,383,1,383,2026-03-25,Islamabad
+1739,Jacket,Fashion,146,6,876,2026-05-15,Peshawar
+1740,Headphones,Electronics,254,8,2032,2025-08-04,Peshawar
+1741,Table,Home,227,10,2270,2026-03-23,Karachi
+1742,Science Book,Books,171,5,855,2025-01-28,Peshawar
+1743,Chair,Home,144,4,576,2026-02-28,Lahore
+1744,Table,Home,424,4,1696,2026-01-14,Karachi
+1745,Shampoo,Beauty,28,10,280,2025-04-03,Peshawar
+1746,Jacket,Fashion,96,9,864,2025-10-31,Islamabad
+1747,Cricket Bat,Sports,443,4,1772,2025-12-11,Quetta
+1748,Wireless Mouse,Electronics,316,6,1896,2025-02-16,Quetta
+1749,Keyboard,Electronics,55,1,55,2025-03-09,Islamabad
+1750,Face Wash,Beauty,209,5,1045,2025-05-11,Quetta
+1751,Football,Sports,27,9,243,2026-03-16,Karachi
+1752,Face Wash,Beauty,455,5,2275,2025-11-07,Quetta
+1753,Headphones,Electronics,151,3,453,2025-05-02,Peshawar
+1754,Coffee Mug,Home,314,8,2512,2025-08-27,Lahore
+1755,Math Guide,Books,66,6,396,2025-07-26,Karachi
+1756,Perfume,Beauty,222,5,1110,2025-06-01,Karachi
+1757,Tennis Ball,Sports,250,1,250,2025-01-29,Islamabad
+1758,Smart Watch,Electronics,247,8,1976,2026-03-10,Quetta
+1759,Novel,Books,157,7,1099,2025-06-30,Peshawar
+1760,Keyboard,Electronics,119,3,357,2025-09-08,Islamabad
+1761,Cricket Bat,Sports,202,8,1616,2025-11-21,Peshawar
+1762,Lamp,Home,75,5,375,2025-07-26,Lahore
+1763,Math Guide,Books,406,2,812,2025-02-02,Lahore
+1764,Jeans,Fashion,308,2,616,2025-06-25,Karachi
+1765,Shampoo,Beauty,61,9,549,2025-04-16,Lahore
+1766,Football,Sports,131,3,393,2026-05-11,Islamabad
+1767,Tennis Ball,Sports,33,3,99,2025-10-25,Peshawar
+1768,Jacket,Fashion,446,2,892,2026-03-17,Islamabad
+1769,Novel,Books,121,9,1089,2025-09-30,Peshawar
+1770,T-Shirt,Fashion,262,1,262,2026-04-20,Peshawar
+1771,History Book,Books,288,8,2304,2025-04-05,Karachi
+1772,Science Book,Books,125,6,750,2025-03-16,Islamabad
+1773,Keyboard,Electronics,72,3,216,2025-05-03,Peshawar
+1774,Tennis Ball,Sports,293,10,2930,2026-01-16,Islamabad
+1775,Math Guide,Books,48,9,432,2025-01-23,Islamabad
+1776,History Book,Books,489,2,978,2025-12-30,Islamabad
+1777,Lamp,Home,429,5,2145,2025-07-04,Islamabad
+1778,History Book,Books,72,6,432,2026-02-10,Islamabad
+1779,Science Book,Books,217,10,2170,2025-06-22,Karachi
+1780,Math Guide,Books,192,10,1920,2025-11-28,Lahore
+1781,Face Wash,Beauty,243,8,1944,2025-02-02,Karachi
+1782,Table,Home,289,5,1445,2026-05-02,Islamabad
+1783,Shampoo,Beauty,105,10,1050,2025-09-03,Peshawar
+1784,Keyboard,Electronics,320,9,2880,2025-04-01,Lahore
+1785,Table,Home,341,9,3069,2026-03-13,Karachi
+1786,Face Wash,Beauty,15,4,60,2025-04-21,Karachi
+1787,Cricket Bat,Sports,421,9,3789,2025-11-15,Islamabad
+1788,Shoes,Fashion,323,1,323,2025-04-12,Quetta
+1789,Shampoo,Beauty,184,2,368,2025-02-18,Quetta
+1790,Wireless Mouse,Electronics,95,6,570,2026-02-26,Lahore
+1791,Headphones,Electronics,461,7,3227,2025-02-17,Karachi
+1792,Lamp,Home,154,7,1078,2026-02-22,Lahore
+1793,Tennis Ball,Sports,10,2,20,2025-11-17,Islamabad
+1794,T-Shirt,Fashion,479,6,2874,2025-07-04,Quetta
+1795,Shampoo,Beauty,142,7,994,2025-08-27,Lahore
+1796,Perfume,Beauty,78,6,468,2026-03-01,Lahore
+1797,Jacket,Fashion,81,3,243,2026-01-10,Quetta
+1798,Lipstick,Beauty,329,9,2961,2025-11-23,Lahore
+1799,Lamp,Home,497,2,994,2026-05-01,Islamabad
+1800,Gym Gloves,Sports,494,7,3458,2025-06-25,Islamabad
+1801,Football,Sports,233,5,1165,2025-07-20,Islamabad
+1802,Table,Home,10,2,20,2025-09-08,Islamabad
+1803,Novel,Books,285,8,2280,2025-05-09,Lahore
+1804,Face Wash,Beauty,19,5,95,2026-04-04,Islamabad
+1805,Shoes,Fashion,56,8,448,2025-08-10,Peshawar
+1806,Gym Gloves,Sports,219,1,219,2025-03-30,Peshawar
+1807,Wireless Mouse,Electronics,121,1,121,2025-10-03,Karachi
+1808,Face Wash,Beauty,54,6,324,2025-09-20,Peshawar
+1809,Chair,Home,122,5,610,2025-09-23,Lahore
+1810,Table,Home,183,10,1830,2025-06-26,Islamabad
+1811,Gym Gloves,Sports,89,9,801,2025-08-12,Karachi
+1812,Jeans,Fashion,89,7,623,2026-03-09,Quetta
+1813,Gym Gloves,Sports,12,9,108,2025-04-17,Quetta
+1814,Face Wash,Beauty,15,8,120,2025-03-24,Lahore
+1815,Jeans,Fashion,96,4,384,2026-03-27,Quetta
+1816,History Book,Books,282,1,282,2025-02-09,Quetta
+1817,Chair,Home,187,2,374,2026-03-07,Peshawar
+1818,Lamp,Home,470,2,940,2026-02-03,Quetta
+1819,Keyboard,Electronics,432,2,864,2026-02-22,Quetta
+1820,Tennis Ball,Sports,485,5,2425,2025-04-25,Peshawar
+1821,Novel,Books,293,8,2344,2025-07-24,Quetta
+1822,Jeans,Fashion,285,6,1710,2026-03-27,Peshawar
+1823,Cricket Bat,Sports,412,10,4120,2025-02-12,Lahore
+1824,Jacket,Fashion,33,8,264,2026-01-28,Lahore
+1825,Lamp,Home,221,7,1547,2025-09-05,Quetta
+1826,Headphones,Electronics,162,3,486,2025-03-30,Islamabad
+1827,History Book,Books,398,5,1990,2025-10-11,Lahore
+1828,Headphones,Electronics,383,3,1149,2025-11-06,Lahore
+1829,Wireless Mouse,Electronics,146,10,1460,2025-08-02,Karachi
+1830,Keyboard,Electronics,284,4,1136,2025-02-09,Karachi
+1831,Shoes,Fashion,410,3,1230,2025-06-02,Islamabad
+1832,Gym Gloves,Sports,475,4,1900,2025-02-12,Lahore
+1833,History Book,Books,89,5,445,2026-01-20,Lahore
+1834,Jeans,Fashion,407,6,2442,2026-04-01,Karachi
+1835,Shoes,Fashion,263,8,2104,2026-04-21,Quetta
+1836,Table,Home,332,3,996,2025-02-25,Peshawar
+1837,T-Shirt,Fashion,296,2,592,2025-12-03,Karachi
+1838,Lamp,Home,39,6,234,2025-04-05,Lahore
+1839,Tennis Ball,Sports,409,10,4090,2025-09-23,Karachi
+1840,Football,Sports,215,8,1720,2025-07-12,Lahore
+1841,Coffee Mug,Home,64,7,448,2025-01-17,Quetta
+1842,Jeans,Fashion,34,9,306,2025-01-20,Quetta
+1843,Jeans,Fashion,382,9,3438,2025-04-20,Peshawar
+1844,T-Shirt,Fashion,346,10,3460,2025-08-06,Quetta
+1845,Coffee Mug,Home,373,2,746,2025-10-29,Quetta
+1846,Coffee Mug,Home,309,8,2472,2025-09-20,Quetta
+1847,History Book,Books,106,9,954,2025-04-17,Peshawar
+1848,Perfume,Beauty,33,10,330,2026-01-08,Islamabad
+1849,Cricket Bat,Sports,306,4,1224,2025-08-11,Lahore
+1850,Wireless Mouse,Electronics,356,10,3560,2025-02-02,Karachi
+1851,Keyboard,Electronics,33,4,132,2026-02-11,Islamabad
+1852,Cricket Bat,Sports,113,10,1130,2025-10-27,Quetta
+1853,Tennis Ball,Sports,175,7,1225,2025-11-13,Islamabad
+1854,Perfume,Beauty,146,4,584,2025-12-16,Lahore
+1855,Gym Gloves,Sports,57,2,114,2026-03-25,Peshawar
+1856,Shampoo,Beauty,497,2,994,2025-11-20,Peshawar
+1857,Tennis Ball,Sports,318,1,318,2025-08-27,Lahore
+1858,Shampoo,Beauty,204,8,1632,2025-12-26,Peshawar
+1859,Lamp,Home,423,5,2115,2025-01-07,Peshawar
+1860,Shampoo,Beauty,41,6,246,2025-05-09,Lahore
+1861,Coffee Mug,Home,447,1,447,2025-11-07,Quetta
+1862,Tennis Ball,Sports,47,10,470,2025-09-20,Lahore
+1863,Tennis Ball,Sports,183,3,549,2026-01-22,Karachi
+1864,Cricket Bat,Sports,196,8,1568,2025-04-01,Peshawar
+1865,Shoes,Fashion,465,4,1860,2025-03-14,Lahore
+1866,Coffee Mug,Home,484,1,484,2025-11-24,Islamabad
+1867,Jeans,Fashion,459,5,2295,2026-02-18,Peshawar
+1868,Smart Watch,Electronics,355,7,2485,2025-01-16,Peshawar
+1869,Table,Home,499,5,2495,2025-02-05,Lahore
+1870,Shoes,Fashion,474,8,3792,2025-08-28,Lahore
+1871,Face Wash,Beauty,223,3,669,2026-05-15,Islamabad
+1872,History Book,Books,33,7,231,2025-02-08,Lahore
+1873,Science Book,Books,319,10,3190,2025-02-27,Lahore
+1874,Shampoo,Beauty,432,8,3456,2025-09-03,Quetta
+1875,Jeans,Fashion,408,4,1632,2025-01-07,Islamabad
+1876,Cricket Bat,Sports,450,8,3600,2025-06-29,Lahore
+1877,Football,Sports,497,2,994,2025-03-12,Islamabad
+1878,Football,Sports,90,8,720,2026-03-08,Karachi
+1879,Lipstick,Beauty,302,6,1812,2025-10-11,Islamabad
+1880,Lipstick,Beauty,124,5,620,2025-09-26,Islamabad
+1881,Shoes,Fashion,380,1,380,2026-03-28,Peshawar
+1882,Cricket Bat,Sports,314,6,1884,2025-08-05,Karachi
+1883,Cricket Bat,Sports,70,1,70,2026-01-16,Islamabad
+1884,Wireless Mouse,Electronics,263,9,2367,2025-10-17,Lahore
+1885,Keyboard,Electronics,218,7,1526,2025-09-18,Peshawar
+1886,Face Wash,Beauty,467,9,4203,2025-05-14,Lahore
+1887,Jeans,Fashion,277,5,1385,2025-02-04,Peshawar
+1888,Smart Watch,Electronics,412,9,3708,2025-04-24,Quetta
+1889,Lipstick,Beauty,288,1,288,2025-04-17,Islamabad
+1890,Football,Sports,462,3,1386,2025-06-14,Karachi
+1891,Math Guide,Books,220,7,1540,2025-01-13,Islamabad
+1892,Jacket,Fashion,385,4,1540,2025-03-02,Lahore
+1893,Shampoo,Beauty,343,1,343,2025-01-19,Peshawar
+1894,T-Shirt,Fashion,197,3,591,2026-05-04,Islamabad
+1895,Lipstick,Beauty,61,5,305,2026-03-17,Peshawar
+1896,Chair,Home,42,2,84,2026-03-02,Quetta
+1897,Jeans,Fashion,404,10,4040,2025-01-14,Islamabad
+1898,Wireless Mouse,Electronics,223,3,669,2025-01-26,Peshawar
+1899,History Book,Books,130,8,1040,2025-09-15,Peshawar
+1900,Headphones,Electronics,477,3,1431,2025-05-06,Karachi
+1901,History Book,Books,153,10,1530,2025-02-14,Quetta
+1902,Chair,Home,172,9,1548,2025-07-15,Islamabad
+1903,Science Book,Books,149,3,447,2025-08-07,Islamabad
+1904,Jacket,Fashion,188,4,752,2025-10-05,Islamabad
+1905,Perfume,Beauty,413,10,4130,2026-05-16,Peshawar
+1906,Cricket Bat,Sports,200,5,1000,2025-07-17,Quetta
+1907,History Book,Books,184,6,1104,2025-11-11,Islamabad
+1908,Coffee Mug,Home,72,8,576,2025-01-24,Islamabad
+1909,Perfume,Beauty,112,1,112,2026-04-05,Peshawar
+1910,Table,Home,298,3,894,2026-03-11,Karachi
+1911,Cricket Bat,Sports,76,9,684,2025-11-21,Lahore
+1912,Jeans,Fashion,113,2,226,2026-01-31,Peshawar
+1913,Math Guide,Books,85,10,850,2025-11-28,Islamabad
+1914,Face Wash,Beauty,81,4,324,2025-08-07,Peshawar
+1915,Lipstick,Beauty,52,5,260,2025-09-10,Islamabad
+1916,Gym Gloves,Sports,341,7,2387,2025-06-02,Islamabad
+1917,Table,Home,242,1,242,2025-12-22,Peshawar
+1918,Shoes,Fashion,99,1,99,2025-08-08,Peshawar
+1919,Football,Sports,79,5,395,2025-01-07,Quetta
+1920,Math Guide,Books,134,3,402,2026-01-25,Peshawar
+1921,Cricket Bat,Sports,159,7,1113,2025-08-13,Islamabad
+1922,Shampoo,Beauty,146,9,1314,2025-05-02,Quetta
+1923,Table,Home,156,9,1404,2025-03-11,Quetta
+1924,Gym Gloves,Sports,287,3,861,2025-12-09,Quetta
+1925,Coffee Mug,Home,129,1,129,2026-03-14,Islamabad
+1926,Face Wash,Beauty,480,2,960,2026-02-11,Lahore
+1927,Wireless Mouse,Electronics,309,2,618,2025-10-27,Islamabad
+1928,Football,Sports,282,10,2820,2026-04-07,Lahore
+1929,Science Book,Books,345,2,690,2025-05-18,Lahore
+1930,Lamp,Home,278,3,834,2025-05-09,Peshawar
+1931,Lipstick,Beauty,431,8,3448,2025-01-10,Lahore
+1932,Perfume,Beauty,387,3,1161,2025-09-22,Quetta
+1933,Gym Gloves,Sports,385,7,2695,2025-09-14,Peshawar
+1934,Perfume,Beauty,180,1,180,2025-05-26,Lahore
+1935,Shampoo,Beauty,369,6,2214,2026-05-04,Karachi
+1936,Novel,Books,314,8,2512,2025-07-15,Quetta
+1937,Shoes,Fashion,85,5,425,2026-01-16,Karachi
+1938,History Book,Books,144,6,864,2026-01-25,Lahore
+1939,Science Book,Books,439,10,4390,2025-08-07,Islamabad
+1940,Novel,Books,66,1,66,2026-02-24,Islamabad
+1941,Keyboard,Electronics,367,6,2202,2025-10-28,Peshawar
+1942,Math Guide,Books,232,9,2088,2025-11-12,Peshawar
+1943,Cricket Bat,Sports,151,2,302,2026-01-26,Islamabad
+1944,History Book,Books,430,3,1290,2025-03-12,Islamabad
+1945,Novel,Books,136,4,544,2025-04-23,Islamabad
+1946,Table,Home,262,2,524,2025-10-29,Islamabad
+1947,Lipstick,Beauty,135,7,945,2025-06-29,Lahore
+1948,Face Wash,Beauty,270,10,2700,2026-02-10,Lahore
+1949,Jacket,Fashion,21,9,189,2025-12-19,Quetta
+1950,T-Shirt,Fashion,84,8,672,2025-10-15,Karachi
+1951,Shampoo,Beauty,398,2,796,2025-05-02,Lahore
+1952,Lamp,Home,26,3,78,2025-03-12,Quetta
+1953,Lamp,Home,478,7,3346,2026-01-18,Quetta
+1954,Lipstick,Beauty,397,10,3970,2025-12-29,Peshawar
+1955,T-Shirt,Fashion,243,6,1458,2025-10-08,Quetta
+1956,Coffee Mug,Home,157,8,1256,2025-01-21,Quetta
+1957,Math Guide,Books,259,10,2590,2025-03-18,Lahore
+1958,History Book,Books,146,8,1168,2025-06-23,Islamabad
+1959,History Book,Books,269,2,538,2025-09-24,Karachi
+1960,Chair,Home,460,6,2760,2026-02-18,Karachi
+1961,Keyboard,Electronics,151,10,1510,2025-06-19,Lahore
+1962,Headphones,Electronics,451,1,451,2026-03-25,Karachi
+1963,Lamp,Home,216,6,1296,2026-02-14,Islamabad
+1964,Gym Gloves,Sports,146,1,146,2026-04-07,Quetta
+1965,Jacket,Fashion,93,7,651,2026-05-10,Peshawar
+1966,Coffee Mug,Home,293,10,2930,2025-02-27,Karachi
+1967,History Book,Books,298,7,2086,2025-01-19,Islamabad
+1968,Jeans,Fashion,29,8,232,2026-05-09,Quetta
+1969,Math Guide,Books,134,9,1206,2026-05-06,Quetta
+1970,Science Book,Books,413,10,4130,2025-03-30,Islamabad
+1971,Football,Sports,347,9,3123,2025-10-01,Lahore
+1972,Tennis Ball,Sports,412,8,3296,2025-05-29,Lahore
+1973,Tennis Ball,Sports,471,9,4239,2025-05-07,Islamabad
+1974,Shampoo,Beauty,353,5,1765,2026-05-03,Peshawar
+1975,Headphones,Electronics,274,5,1370,2026-04-23,Islamabad
+1976,T-Shirt,Fashion,164,10,1640,2025-09-09,Karachi
+1977,Face Wash,Beauty,428,2,856,2025-12-18,Karachi
+1978,Coffee Mug,Home,53,5,265,2026-03-25,Karachi
+1979,Jeans,Fashion,419,8,3352,2026-04-11,Karachi
+1980,Perfume,Beauty,476,5,2380,2026-02-28,Lahore
+1981,Jacket,Fashion,362,4,1448,2025-05-26,Lahore
+1982,Jeans,Fashion,374,4,1496,2025-11-06,Karachi
+1983,Football,Sports,368,8,2944,2026-01-30,Karachi
+1984,Perfume,Beauty,15,2,30,2026-02-03,Islamabad
+1985,Lipstick,Beauty,347,2,694,2025-12-12,Karachi
+1986,Table,Home,173,1,173,2025-07-22,Karachi
+1987,Jeans,Fashion,29,1,29,2025-01-26,Peshawar
+1988,Shampoo,Beauty,291,10,2910,2025-10-05,Quetta
+1989,Tennis Ball,Sports,302,8,2416,2026-01-14,Quetta
+1990,Lipstick,Beauty,423,2,846,2025-02-15,Quetta
+1991,Tennis Ball,Sports,459,10,4590,2025-11-23,Peshawar
+1992,T-Shirt,Fashion,40,8,320,2025-07-27,Islamabad
+1993,Shampoo,Beauty,402,1,402,2025-06-09,Karachi
+1994,Football,Sports,96,6,576,2026-02-18,Lahore
+1995,Jacket,Fashion,43,2,86,2025-10-27,Quetta
+1996,Math Guide,Books,266,2,532,2025-11-25,Lahore
+1997,Keyboard,Electronics,200,5,1000,2026-05-09,Peshawar
+1998,Face Wash,Beauty,134,4,536,2026-03-27,Islamabad
+1999,Perfume,Beauty,103,9,927,2026-05-01,Karachi
+2000,Tennis Ball,Sports,394,2,788,2025-11-30,Peshawar
