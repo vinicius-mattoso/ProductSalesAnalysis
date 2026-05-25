@@ -8,7 +8,7 @@
       name="description"
       content="Dashboard estatico de vendas de produtos com KPIs, tendencias, segmentacao e ranking comercial."
     />
-    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}" />
+    <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
     <div class="app-shell">
@@ -34,27 +34,53 @@
             Categoria
             <select id="categoryFilter">
               <option value="all">Todas</option>
-              {% for category in categories %}
-              <option value="{{ category }}">{{ category }}</option>
-              {% endfor %}
+              <option value="Beauty">Beauty</option>
+              <option value="Books">Books</option>
+              <option value="Electronics">Electronics</option>
+              <option value="Fashion">Fashion</option>
+              <option value="Home">Home</option>
+              <option value="Sports">Sports</option>
             </select>
           </label>
           <label>
             Cidade
             <select id="cityFilter">
               <option value="all">Todas</option>
-              {% for city in cities %}
-              <option value="{{ city }}">{{ city }}</option>
-              {% endfor %}
+              <option value="Islamabad">Islamabad</option>
+              <option value="Karachi">Karachi</option>
+              <option value="Lahore">Lahore</option>
+              <option value="Peshawar">Peshawar</option>
+              <option value="Quetta">Quetta</option>
             </select>
           </label>
           <label>
             Produto
             <select id="productFilter">
               <option value="all">Todos</option>
-              {% for product in products %}
-              <option value="{{ product }}">{{ product }}</option>
-              {% endfor %}
+              <option value="Chair">Chair</option>
+              <option value="Coffee Mug">Coffee Mug</option>
+              <option value="Cricket Bat">Cricket Bat</option>
+              <option value="Face Wash">Face Wash</option>
+              <option value="Football">Football</option>
+              <option value="Gym Gloves">Gym Gloves</option>
+              <option value="Headphones">Headphones</option>
+              <option value="History Book">History Book</option>
+              <option value="Jacket">Jacket</option>
+              <option value="Jeans">Jeans</option>
+              <option value="Keyboard">Keyboard</option>
+              <option value="Lamp">Lamp</option>
+              <option value="Lipstick">Lipstick</option>
+              <option value="Math Guide">Math Guide</option>
+              <option value="Novel">Novel</option>
+              <option value="Perfume">Perfume</option>
+              <option value="Science Book">Science Book</option>
+              <option value="Shampoo">Shampoo</option>
+              <option value="Shoes">Shoes</option>
+              <option value="Smart Watch">Smart Watch</option>
+              <option value="T-Shirt">T-Shirt</option>
+              <option value="Table">Table</option>
+              <option value="Tennis Ball">Tennis Ball</option>
+              <option value="Wireless Mouse">Wireless Mouse</option>
             </select>
           </label>
           <button id="resetFilters" type="button">Limpar filtros</button>
@@ -64,7 +90,7 @@
       <main>
         <header class="topbar" id="overview">
           <div>
-            <p class="eyebrow">Dataset period: {{ date_min }} ate {{ date_max }}</p>
+            <p class="eyebrow">Dataset period: 2025-01-02 ate 2026-05-16</p>
             <h2>Dashboard de vendas para analise de produto</h2>
           </div>
           <div class="topbar-actions">
@@ -181,6 +207,7 @@
       </main>
     </div>
 
-    <script src="{{ url_for('static', path='/app.js') }}"></script>
+    <script>window.STATIC_SALES_DATA_URL = "assets/sales-data.json";</script>
+    <script src="assets/app.js"></script>
   </body>
 </html>
